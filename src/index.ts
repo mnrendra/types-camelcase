@@ -1,7 +1,7 @@
-type Test = string
+import type CamelCase from './CamelCase'
 
-export {
-  Test
+export type {
+  CamelCase
 }
 
-export default Test
+export default CamelCase
