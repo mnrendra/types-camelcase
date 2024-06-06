@@ -1,5 +1,5 @@
 # @mnrendra/types-camelcase
-TypeScript utility types for converting a string type to camel case.
+TypeScript utility type for converting a string type to camel case.
 
 ## Install
 ```bash
@@ -22,7 +22,7 @@ console.log(camelcase)
 ## Types
 ```typescript
 import type {
-  CamelCase // A utility types for converting a string type to camel case.
+  CamelCase // A utility type for converting a string type to camel case.
 } from '@mnrendra/types-camelcase'
 ```
 
