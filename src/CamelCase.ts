@@ -4,7 +4,7 @@ type LowerCaseFirstLetter<S extends string> =
     : S
 
 /**
- * A utility types for converting a string type to camel case.
+ * A utility type for converting a string type to camel case.
  */
 export type CamelCase<T extends string> =
   T extends `${infer First}${infer Rest}`

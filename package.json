@@ -1,7 +1,7 @@
 {
   "name": "@mnrendra/types-camelcase",
   "version": "0.0.0-development",
-  "description": "TypeScript utility types for converting a string type to camel case.",
+  "description": "TypeScript utility type for converting a string type to camel case.",
   "private": false,
   "types": "dist/index.d.ts",
   "scripts": {
